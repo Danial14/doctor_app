@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "454473763079",
+    "project_id": "livecareai",
+    "storage_bucket": "livecareai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454473763079:android:fec5d85fcc430a67779da2",
+        "android_client_info": {
+          "package_name": "com.liecareai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454473763079-f47u2mapfsnveb8nt8va5d9cenn7eqm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBcf-ptrud1Bd8UlfsZ8kKfTwfn0WGecg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454473763079-di3of2buofd8vdj7i3i9dl258n31vccb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454473763079-8omosgnrhdvenho203l06bcf3o6qtkm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.licecareai"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454473763079:android:e099666cb6616f1c779da2",
+        "android_client_info": {
+          "package_name": "com.sc.cliniconline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454473763079-enb6lio5k9sk58b1cu569in7mtbrvtmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sc.cliniconline",
+            "certificate_hash": "90d41d03df092c2482f255f0c2690d6d1443f17f"
+          }
+        },
+        {
+          "client_id": "454473763079-f47u2mapfsnveb8nt8va5d9cenn7eqm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBcf-ptrud1Bd8UlfsZ8kKfTwfn0WGecg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454473763079-di3of2buofd8vdj7i3i9dl258n31vccb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454473763079-8omosgnrhdvenho203l06bcf3o6qtkm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.licecareai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
